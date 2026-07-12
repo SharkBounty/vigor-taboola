@@ -134,16 +134,16 @@
 </head>
 
 <body>
-
-    <!-- Pixel -->
+   <!-- Pixel -->
     <script>
-        window.pixelId = "69579a8be70c757a1b85066e";
+        window.taboolaPixelId = "6a53222fd779faebb98921f5";
         var a = document.createElement("script");
         a.setAttribute("async", "");
         a.setAttribute("defer", "");
-        a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
+        a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel-taboola.js");
         document.head.appendChild(a);
     </script>
+
 
     <div class="announcement-bar">
         ⚠️ ESTA OFERTA EXPIRA EM: <span id="timer">05:00</span> MINUTOS
