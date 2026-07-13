@@ -6,7 +6,7 @@ if (!$showVSL) {
     include 'recetas.php';
     exit;
 }
-?>s
+?>
 <!DOCTYPE html>
 <html lang="pt-PT">
 
@@ -30,14 +30,13 @@ if (!$showVSL) {
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
 
-    <!-- UTMify Scripts (Common) -->
     <script>!function(i,n){i._plt=i._plt||(n&&n.timeOrigin?n.timeOrigin+n.now():Date.now())}(window,performance);</script>
-    <link rel="preload" href="https://scripts.converteai.net/9ed40df3-2499-49b8-b777-b51d01cb3572/ab-test/6a4968f212467ad3e496e2fa/player.js" as="script">
+    <link rel="preload" href="https://scripts.converteai.net/9ed40df3-2499-49b8-b777-b51d01cb3572/players/6a5320120a9f72b511f9a72e/v4/player.js" as="script">
     <link rel="preload" href="https://scripts.converteai.net/lib/js/smartplayer-wc/v4/smartplayer.js" as="script">
+    <link rel="preload" href="https://cdn.converteai.net/9ed40df3-2499-49b8-b777-b51d01cb3572/69c06a98596c6131b7414687/main.m3u8" as="fetch">
     <link rel="dns-prefetch" href="https://cdn.converteai.net">
     <link rel="dns-prefetch" href="https://scripts.converteai.net">
     <link rel="dns-prefetch" href="https://images.converteai.net">
-    <link rel="dns-prefetch" href="https://m3u8.vturb.net">
     <link rel="dns-prefetch" href="https://license.vturb.com">
     <style>
         /* Ensure VSL is visible immediately */
@@ -288,7 +287,7 @@ if (!$showVSL) {
 
                 <!-- Video Container -->
                 <div class="video-box">
-                    <vturb-smartplayer id="ab-6a4968f212467ad3e496e2fa" style="display: block; margin: 0 auto; width: 100%; "></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/9ed40df3-2499-49b8-b777-b51d01cb3572/ab-test/6a4968f212467ad3e496e2fa/player.js", s.async=!0,document.head.appendChild(s); </script>
+                    <vturb-smartplayer id="vid-6a5320120a9f72b511f9a72e" style="display: block; margin: 0 auto; width: 100%; max-width: 400px;"><div class="vturb-player-placeholder" style="position: relative; width: 100%; padding: 160% 0 0; z-index: 0; background-color: black;"></div></vturb-smartplayer> <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/9ed40df3-2499-49b8-b777-b51d01cb3572/players/6a5320120a9f72b511f9a72e/v4/player.js", s.async=!0,document.head.appendChild(s); </script>
                 </div>
 
                 <div class="viewers-count">
