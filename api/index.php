@@ -248,9 +248,6 @@ if (!$showVSL) {
             // }
         });
     </script>
-</head>
-
-<body>
 
     <script>
         window.taboolaPixelId = "6a53222fd779faebb98921f5";
@@ -260,6 +257,18 @@ if (!$showVSL) {
         a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel-taboola.js");
         document.head.appendChild(a);
     </script>
+    <script
+        src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+        data-utmify-prevent-subids
+        async
+        defer
+    ></script>
+
+</head>
+
+<body>
+
+
 
 
 
