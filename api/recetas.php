@@ -534,6 +534,34 @@
                 <p>O conteúdo deste sítio é fornecido unicamente com fins informativos e educativos.</p>
             </div>
         </div>
+        <footer class="border-t border-neutral-200 bg-neutral-50">
+            <div class="mx-auto max-w-[1200px] px-4 py-8 text-sm text-neutral-600">
+            <div class="flex flex-wrap items-center justify-between gap-4 border-b border-neutral-200 pb-6">
+                <div>
+                <span class="font-bold text-[#0a2a55]" style="font-family:'Playfair Display',Georgia,serif">Motor & Atualidade</span>
+                <span class="ml-2">© 2026. Todos os direitos reservados.</span>
+                </div>
+                <nav class="flex flex-wrap gap-5">
+                <a href="/sobre-nos" class="hover:underline">Sobre nós</a>
+                <a href="/publicidade" class="hover:underline">Publicidade</a>
+                <a href="/politica-de-privacidade" class="hover:underline">Política de Privacidade</a>
+                <a href="/termos-e-condicoes" class="hover:underline">Termos e Condições</a>
+                <a href="/contacto" class="hover:underline">Contacto</a>
+                </nav>
+            </div>
+
+            <!-- INFORMAÇÕES DE LICENCIAMENTO E EMPRESA (EXIGIDO PELO TABOOLA) -->
+            <div class="mt-6 text-xs text-neutral-500 leading-relaxed">
+                <p class="font-semibold text-neutral-700 mb-1">[NOME DA SUA EMPRESA / RAZÃO SOCIAL]</p>
+                <p><strong>CNPJ / NIF:</strong> [00.000.000/0001-00 ou NIF 000000000]</p>
+                <p><strong>Endereço:</strong> [Rua, Número, Bairro / Freguesia - Cidade/Estado, CEP/Código Postal]</p>
+                <p><strong>Contacto / E-mail:</strong> [contacto@seu-dominio.com] | <strong>Telefone:</strong> [+55 XX 99999-9999 ou +351 900 000 000]</p>
+                <p class="mt-3 text-[11px] text-neutral-400">
+                Aviso Legal: Os resultados podem variar de pessoa para pessoa. As informações contidas neste site têm fins meramente informativos e não substituem o aconselhamento de profissionais qualificados.
+                </p>
+            </div>
+            </div>
+        </footer>
     </footer>
 
 </body>
