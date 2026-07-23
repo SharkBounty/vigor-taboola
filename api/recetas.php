@@ -417,7 +417,6 @@
 </head>
 
 <body>
-
     <!-- Announcement Bar -->
     <div class="announcement-bar">
         Página Educativa — Conteúdo estritamente informativo sem fins comerciais
@@ -534,6 +533,7 @@
                 <p>O conteúdo deste sítio é fornecido unicamente com fins informativos e educativos.</p>
             </div>
         </div>
+        <!-- Footer Atualizado com Dados Reais da Empresa para Aprovação no Taboola -->
         <footer class="border-t border-neutral-200 bg-neutral-50">
             <div class="mx-auto max-w-[1200px] px-4 py-8 text-sm text-neutral-600">
             <div class="flex flex-wrap items-center justify-between gap-4 border-b border-neutral-200 pb-6">
@@ -550,20 +550,19 @@
                 </nav>
             </div>
 
-            <!-- INFORMAÇÕES DE LICENCIAMENTO E EMPRESA (EXIGIDO PELO TABOOLA) -->
+            <!-- DETALHES DE LICENCIAMENTO E IDENTIFICAÇÃO EXIGIDOS PELO TABOOLA -->
             <div class="mt-6 text-xs text-neutral-500 leading-relaxed">
-                <p class="font-semibold text-neutral-700 mb-1">[NOME DA SUA EMPRESA / RAZÃO SOCIAL]</p>
-                <p><strong>CNPJ / NIF:</strong> [00.000.000/0001-00 ou NIF 000000000]</p>
-                <p><strong>Endereço:</strong> [Rua, Número, Bairro / Freguesia - Cidade/Estado, CEP/Código Postal]</p>
-                <p><strong>Contacto / E-mail:</strong> [contacto@seu-dominio.com] | <strong>Telefone:</strong> [+55 XX 99999-9999 ou +351 900 000 000]</p>
+                <p class="font-semibold text-neutral-700 mb-1">61.790.719 Mateus Freire Roberto</p>
+                <p><strong>CNPJ:</strong> 61.790.719/0001-68</p>
+                <p><strong>Inscrição Estadual (SP):</strong> 181.680.675.111</p>
+                <p><strong>Endereço Comercial:</strong> Avenida São Paulo, 909, Casa 07 - Centro, Araraquara/SP - CEP 14801-060</p>
+                <p><strong>Atendimento ao Cliente / Contacto:</strong> contato@motoratualidade.com</p>
                 <p class="mt-3 text-[11px] text-neutral-400">
-                Aviso Legal: Os resultados podem variar de pessoa para pessoa. As informações contidas neste site têm fins meramente informativos e não substituem o aconselhamento de profissionais qualificados.
+                Aviso Legal: Os resultados dos produtos exibidos podem variar de acordo com o veículo e as condições de uso. As marcas citadas pertencem aos seus respetivos proprietários.
                 </p>
             </div>
             </div>
         </footer>
-    </footer>
-
 </body>
 
 </html>
